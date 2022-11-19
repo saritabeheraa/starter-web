@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sarita  sarita.behera@harness.io  @saritabehera_
 
 # THANKS
 
-    <name>
+    To all my colleagues.
 
 # TECHNOLOGY COLOPHON
 
