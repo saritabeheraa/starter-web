@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for shpwing how to use Git and GitHub together. Adding a line for rebasing example.
+This is a simple website project for shpwing how to use Git and GitHub together. Adding a line for rebasing example. More changes from myfeature branch.
 
 ## Purpose
 
